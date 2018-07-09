@@ -1,0 +1,24 @@
+.logo_fb{
+    display: flex;
+    width: 750px;
+    height: 300px;
+    margin: 0 auto;
+    font-family: sans-serif;
+    font-weight: bold;
+    background: linear-gradient(to right, #4D69BB, #3D56A1);
+    color: white;
+}
+
+.logo_fb i{
+    flex:1;
+    font-size: 230px;
+    margin-left: 4%;
+}
+
+.logo_fb p{
+    flex: 1;
+    margin: 0;
+    font-size: 180px;
+    margin-right: 8%;
+    margin-top: 3%;
+}
